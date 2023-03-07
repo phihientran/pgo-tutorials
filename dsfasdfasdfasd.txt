@@ -1,0 +1,11 @@
+Klasy:Person
+
+Atrybuty:
+name: String
+sunrame:String
+age:int
+
+
+
+Metod i typy danych (parametry i typy zwracane):
+IntroduceYourself(): string
